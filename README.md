@@ -1,2 +1,3 @@
 # Chat-Bot-
-OpenAI chatbot with FastAPI
+OpenAI chatbot with FastAPI using LlamaIndex
+
